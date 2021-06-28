@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jkpwd</string>
+
+    <string name="image_chooser">File Chooser</string>
+
+    <string name="todo">TODO</string>
+    <string name="retry">retry</string>
+
+</resources>
